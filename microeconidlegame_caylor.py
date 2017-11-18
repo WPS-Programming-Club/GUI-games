@@ -1,3 +1,5 @@
+#Please aid Mr.Caylor in his venture to develop a GUI for his budding idle game.
+
 import time
 import math
 
